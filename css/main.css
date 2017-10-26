@@ -14,3 +14,13 @@ body {
   margin: 20px auto 0;
   width: 80%;
 }
+
+li {
+  list-style-type: none;
+
+}
+
+a {
+  text-decoration: none;
+  
+}
