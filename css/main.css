@@ -11,14 +11,26 @@ body, h1, h2, ul, ol {
 
 body {
   font-family: 'Questrial', Arial, sans-serif;
+  font-size: 1em;
   margin: 20px auto 0;
   width: 80%;
+}
+
+h1 {
+  font-size: 3em;
 }
 
 header {
   display: flex;
   justify-content: space-between;
-  
+
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  width: 20em;
+
 }
 
 li {
