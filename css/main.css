@@ -2,11 +2,15 @@
 @import url(https://fonts.googleapis.com/css?family=Luckiest+Guy:400);
 @import url(https://fonts.googleapis.com/css?family=Questrial:400);
 
-/*** basic reset ***/
 
-body, h1, h2, ul, ol {
-  margin: 0;
-  padding: 0;
+/*** basic reset ***/
+box-sizing: inherit;{
+
+}
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+    
+    padding: 0;
 }
 
 body {
@@ -76,7 +80,13 @@ div#feature{
     background-size: 100px 100px, 100px 100px, 50px 50px, 50px 50px;
 }
 
+
 a.active {
     background-color: #e45026;
     color: #fff;
+}
+
+div#feature h1 {
+    display: table-cell;
+    vertical-align: middle;
 }
