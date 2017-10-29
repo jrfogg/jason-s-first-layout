@@ -32,6 +32,15 @@ header {
 
 }
 
+header nav a {
+    background-color: #f99d22;
+    border-radius: 4px;
+    color: inherit;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+
 nav ul {
   margin-top: 1em;
   padding: 10px;
