@@ -88,3 +88,7 @@ div#feature h1 {
     display: table-cell;
     vertical-align: middle;
 }
+.container {
+  display: flex;
+  
+}
