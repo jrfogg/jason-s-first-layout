@@ -97,7 +97,12 @@ div#feature h1 {
 h2 {
   text-align: center;
 }
-.center-cite{
+
+.center-cite {
   display: flex;
   justify-content: center;
+}
+
+.html {
+  background: url(/img/HTML5_logo.png) no-repeat scroll center 5px/100px 100px;
 }
