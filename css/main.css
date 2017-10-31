@@ -98,5 +98,6 @@ h2 {
   text-align: center;
 }
 .center-cite{
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
