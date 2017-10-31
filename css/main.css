@@ -105,4 +105,6 @@ h2 {
 
 .html {
   background: url(/img/true-html5.png) no-repeat scroll center 5px/100px 100px;
+  display: flex;
+  flex-flow: column;
 }
