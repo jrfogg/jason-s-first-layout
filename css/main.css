@@ -95,7 +95,8 @@ div#feature h1 {
 }
 
 h2 {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .center-cite {
