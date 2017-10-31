@@ -109,3 +109,8 @@ h2 {
   display: flex;
   flex-flow: column;
 }
+
+.language {
+  display: flex;
+  flex-flow: column;
+}
