@@ -74,7 +74,7 @@ div#feature{
 
 .cross {
     background: radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, slategray 20%, slategray 80%, transparent 80%, transparent) 50px 50px, linear-gradient(#A8B1BB 8px, transparent 8px) 0 -4px, linear-gradient(90deg, #A8B1BB 8px, transparent 8px) -4px 0;
-    background-color: slategray;
+    background-color: slategrey;
     background-size: 100px 100px, 100px 100px, 50px 50px, 50px 50px;
 }
 
@@ -90,7 +90,8 @@ div#feature h1 {
 }
 .container {
   display: flex;
-  flex-direction: column;
+  margin-top: 16px;
+
 
 }
 
@@ -105,12 +106,12 @@ h2 {
 }
 
 div#html {
-  background: url(/img/true-html5.png) no-repeat scroll center 5px/100px 100px;
-  display: flex;
-  flex-flow: column;
+  background: url(/img/true-html5.png) no-repeat scroll center 59px/100px 100px;
+
 }
 
 .language {
   display: flex;
   flex-flow: column;
+  margin-top: 125px;
 }
